@@ -1,2 +1,2 @@
 - Dan Luu | [danluu.com](https://danluu.com)
-- Joel on Software | [joelonsoftware.com](https://joelsonsoftware.com)
+- Joel on Software | [joelonsoftware.com](https://joelonsoftware.com)
