@@ -1,0 +1,2 @@
+- Dan Luu | danluu.com
+- Joel on Software | joelonsoftware.com
